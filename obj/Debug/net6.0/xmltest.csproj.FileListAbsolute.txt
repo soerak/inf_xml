@@ -1,0 +1,15 @@
+/Users/henrich/Desktop/projs/dotnet-projs/xmltest/bin/Debug/net6.0/xmltest
+/Users/henrich/Desktop/projs/dotnet-projs/xmltest/bin/Debug/net6.0/xmltest.deps.json
+/Users/henrich/Desktop/projs/dotnet-projs/xmltest/bin/Debug/net6.0/xmltest.runtimeconfig.json
+/Users/henrich/Desktop/projs/dotnet-projs/xmltest/bin/Debug/net6.0/xmltest.dll
+/Users/henrich/Desktop/projs/dotnet-projs/xmltest/bin/Debug/net6.0/ref/xmltest.dll
+/Users/henrich/Desktop/projs/dotnet-projs/xmltest/bin/Debug/net6.0/xmltest.pdb
+/Users/henrich/Desktop/projs/dotnet-projs/xmltest/obj/Debug/net6.0/xmltest.csproj.AssemblyReference.cache
+/Users/henrich/Desktop/projs/dotnet-projs/xmltest/obj/Debug/net6.0/xmltest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henrich/Desktop/projs/dotnet-projs/xmltest/obj/Debug/net6.0/xmltest.AssemblyInfoInputs.cache
+/Users/henrich/Desktop/projs/dotnet-projs/xmltest/obj/Debug/net6.0/xmltest.AssemblyInfo.cs
+/Users/henrich/Desktop/projs/dotnet-projs/xmltest/obj/Debug/net6.0/xmltest.csproj.CoreCompileInputs.cache
+/Users/henrich/Desktop/projs/dotnet-projs/xmltest/obj/Debug/net6.0/xmltest.dll
+/Users/henrich/Desktop/projs/dotnet-projs/xmltest/obj/Debug/net6.0/ref/xmltest.dll
+/Users/henrich/Desktop/projs/dotnet-projs/xmltest/obj/Debug/net6.0/xmltest.pdb
+/Users/henrich/Desktop/projs/dotnet-projs/xmltest/obj/Debug/net6.0/xmltest.genruntimeconfig.cache
